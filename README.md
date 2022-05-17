@@ -12,3 +12,5 @@ This package contains four functions related to adaptive point process filters:
 - `fit_ofc_model()`: Computes paramters for an optimal feedback control model
 
 More detailed documentation for each function is in `adap_ppf/filt.py`
+
+Note: The data used in `scripts/Saccade Data.ipynb` is from `https://crcns.org/data-sets/pfc/pfc-7`
